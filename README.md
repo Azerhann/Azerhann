@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Azerhann
-- 👀 I’m interested in created games with python
+- 👀 I’m interested in created games with python and C#
 - 🌱 I’m currently learning pythonn
-- 💞️ I’m looking to collaborate on python
+- 💞️ I’m looking to collaborate on python and c#
 - 📫 How to reach me with email
 
 <!---
